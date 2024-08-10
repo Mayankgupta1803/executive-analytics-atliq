@@ -13,6 +13,7 @@ This repository contains my submission for the SQL challenge conducted by Atliq 
 ## Database Structure
 
 The database used for this challenge is `gdb023` (referred to as `atliq_hardware_db`). It consists of six main tables:
+
 https://github.com/Mayankgupta1803/executive-analytics-atliq/blob/38877af603cfb594c2a24e64fc6ef45b5b50fc39/Schema.png
 
 ### 1. dim_customer
